@@ -268,6 +268,6 @@ export const members: Member[] = [
     city: "Preonzo",
     address: "In Campágna 9",
     email: "raulwillimann@gmail.com",
-    relation: "Socio",
+    relation: "Socio", 
   },
 ];
