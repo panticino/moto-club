@@ -180,7 +180,7 @@ export const members: Member[] = [
     city: "Lodrino",
     address: "Via Cantonale 179",
     email: "giorgio.rosselli@bluewin.ch",
-    relation: "Socio",
+    relation: "Membro comitato",
   },
   {
     id: "16",
@@ -202,7 +202,7 @@ export const members: Member[] = [
     address: "Färbestrasse 17",
     email: "pierandreasanna@gmail.com",
     mobile: "+41 76 345 13 93",
-    relation: "Socio",
+    relation: "Membro comitato",
   },
   {
     id: "18",
@@ -258,7 +258,7 @@ export const members: Member[] = [
     address: "Scimavila 16",
     email: "mile61@hotmail.it",
     mobile: "+41 79 621 50 08",
-    relation: "Socia accompagnatrice",
+    relation: "Membro comitato",
   },
   {
     id: "23",

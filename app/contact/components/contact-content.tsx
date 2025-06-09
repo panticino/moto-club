@@ -48,13 +48,11 @@ export function ContactContent() {
               </div>
               <h3 className="text-xl font-bold mb-2">Sede</h3>
               <p className="text-muted-foreground">
-                Rosselli Giorgio
+                Giuliano Ossola
                 <br />
                 C/C Pan European Club Ticino
                 <br />
-                Via Cantonale 179
-                <br />
-                CH-6527 Lodrino
+                CH-6616 Losone
               </p>
             </motion.div>
             <motion.div
@@ -69,12 +67,6 @@ export function ContactContent() {
               </div>
               <h3 className="text-xl font-bold mb-2">Email</h3>
               <p className="text-muted-foreground">
-                <a
-                  href="mailto:carlo.holdener@bluewin.ch"
-                  className="hover:text-primary transition-colors"
-                >
-                  carlo.holdener@bluewin.ch
-                </a>
                 <br />
                 <a
                   href="mailto:panclubticino24@gmail.com"
