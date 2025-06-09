@@ -213,7 +213,7 @@ export const members: Member[] = [
     address: "Via Ferriere 9",
     email: "edoardosommer@bluewin.ch",
     mobile: "+41 79 444 92 87",
-    relation: "Socio",
+    relation: "Membro comitato",
   },
   {
     id: "19",
@@ -224,7 +224,7 @@ export const members: Member[] = [
     address: "Prebonin 39",
     email: "lisahorses86@gmail.com",
     mobile: "+41 79 443 73 88",
-    relation: "Socio",
+    relation: "Membro comitato",
   },
   {
     id: "20",
@@ -268,6 +268,6 @@ export const members: Member[] = [
     city: "Preonzo",
     address: "In Campágna 9",
     email: "raulwillimann@gmail.com",
-    relation: "Socio",
+    relation: "Membro comitato",
   },
 ];
